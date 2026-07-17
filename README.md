@@ -1,3 +1,26 @@
+## Documentation Flow
+
+```text
+Vision Executive Summary
+          ↓
+Vision
+          ↓
+Product Requirements
+          ↓
+User Journey
+          ↓
+Features
+          ↓
+UI/UX
+          ↓
+AI Architecture
+          ↓
+Technical Architecture
+          ↓
+Database
+          ↓
+Roadmap
+```
 ## Repository Structure
 
 - [01 Vision Executive Summary](01-Vision-Executive-Summary.md)
